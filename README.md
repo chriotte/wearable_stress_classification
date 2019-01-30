@@ -6,7 +6,8 @@ Note: This code is a simplified version of my master's dissertation done during 
 
 [Code tutorial and data description can be found at my blog dataespresso.com](http://dataespresso.com/).
 
-`
+{::nomarkdown}
+
 <!doctype html>
 
 <html lang="en">
@@ -7175,4 +7176,5 @@ Note: This code is a simplified version of my master's dissertation done during 
 </div>
 </body>
 </html>
-`
+
+{:/}
