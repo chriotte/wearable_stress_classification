@@ -1,2 +1,11 @@
-# Investigating-Heart-Rate-Variability-A-Machine-Learning-Approach
-Data
+# Investigating Heart Rate Variability A Machine Learning Approach
+
+# Stress readings 
+dataset/Vikings/Female_33_years_old/dfnewHRV_Female_33_years_old_vikings.csv
+dataset/Vikings/male_22years/dfnewHRVVIKINGSFULLSERIES.csv
+dataset/Vikings/Male_23_years_old/dfnewHRVMale_23_years_old.csv
+dataset/Vikings/Male_21_years/dfnewHRV.csv
+dataset/Vikings/Female_24_years_old/dfnewHRV.csv
+dataset/American Horror Story/male_22years_american_horror_story/dfnewHRVmale_22yearsAmericanHorrorStory.csv
+dataset/American Horror Story/Male_25_years_american_horror_story/dfnewHRV_Male_25_years_american_horror_story.csv
+dataset/American Horror Story/female_24_years_american_horror_story/dfnewHRV.csv
