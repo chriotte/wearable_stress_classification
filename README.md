@@ -1,11 +1,8 @@
-# Investigating Heart Rate Variability A Machine Learning Approach
+# Stress classifier with AutoML
 
-# Stress readings 
-dataset/Vikings/Female_33_years_old/dfnewHRV_Female_33_years_old_vikings.csv
-dataset/Vikings/male_22years/dfnewHRVVIKINGSFULLSERIES.csv
-dataset/Vikings/Male_23_years_old/dfnewHRVMale_23_years_old.csv
-dataset/Vikings/Male_21_years/dfnewHRV.csv
-dataset/Vikings/Female_24_years_old/dfnewHRV.csv
-dataset/American Horror Story/male_22years_american_horror_story/dfnewHRVmale_22yearsAmericanHorrorStory.csv
-dataset/American Horror Story/Male_25_years_american_horror_story/dfnewHRV_Male_25_years_american_horror_story.csv
-dataset/American Horror Story/female_24_years_american_horror_story/dfnewHRV.csv
+This repository presents an automated machine learning approach in Python to create a stress monitoring system with data from devices such as fitness trackers. With the rising popularity of trackers that monitors biological signals 24/7, there is just a matter of time before the technology matures and everyone will be wearing their own ‘doctor AI’ on the wrist, this project is one step in that direction.
+
+Note: This code is a simplified version of my master's dissertation done during the summer of 2017. For more information about data handling, and other machine learning approaches, please see the full masters dissertation available [here](https://1drv.ms/b/s!ApqYcVCNnKvChu1nfGu5bMnh8jckkw).
+
+[Code tutorial and data description can be found at my blog dataespresso.com](http://dataespresso.com/).
+
