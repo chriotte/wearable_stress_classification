@@ -29,6 +29,10 @@ The raw data extracted into .txt files in this project can be accessed from [her
 
 
 
+## Authors
+- [Christopher Ottesen](http://dataespresso.com/Christopher-Ottesen/index.html)
+- [Dr.Tony Stockman](http://www.eecs.qmul.ac.uk/profiles/stockmantony.html), my project supervisor.
+- [Norman Poh](https://normanpoh.github.io/), a colleague that have overseen the experiment and provided very useful feedback. 
 
 
 
